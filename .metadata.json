@@ -1,9 +1,0 @@
-[
-  {
-    "package": "chunkR",
-    "oncran": true
-  },
-  {
-    "package": "FastqCleaner"
-  }
-]
