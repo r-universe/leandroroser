@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "chunkR"]
-	path = chunkR
-	url = https://github.com/leandroroser/chunkr
 [submodule "FastqCleaner"]
 	path = FastqCleaner
 	url = https://github.com/leandroroser/fastqcleaner
+[submodule "chunkR"]
+	path = chunkR
+	url = https://github.com/leandroroser/chunkr
